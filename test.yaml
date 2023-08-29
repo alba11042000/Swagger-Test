@@ -2,7 +2,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: Hola que tal
+  description: Hola que tal `Alba`
 
   version: production
 basePath: https://afine.com
